@@ -85,11 +85,6 @@ Only eject if you need complete control over the build tools and configuration. 
 - [Advanced Configuration Options](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 - [Deployment Guidelines](https://facebook.github.io/create-react-app/docs/deployment)
 
-### Troubleshooting
-For build optimization issues or other common problems, refer to our [troubleshooting guide](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
-
-## Contributing
-[Add your contribution guidelines here]
 
 ## License
-[Add your license information here]
+[MIT LICENSE 2024]
